@@ -1,0 +1,24 @@
+/* USANDO CSS COMUN PARA JSX */
+.title{
+   color: #ff4800;
+}
+.task{
+   font-family: "JetBrains Mono";
+   font-weight: bold;
+}
+.done{
+   color: #4917bd;
+}
+.not-done{
+   color: #a71b1b;
+}
+table{
+   width: 100%;
+   text-align: center;
+}
+td{
+   width: 10em;
+}
+img{
+   width: 95%;
+}
